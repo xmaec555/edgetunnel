@@ -1,3 +1,5 @@
+ 给和我一样，不会的小白使用，订阅链接： https://jc.hx208.top/6ec4d953-1081-4b92-99a7-cbafed42d817
+
 # edgetunnel
 这是一个基于 CF Worker 平台的脚本，在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
